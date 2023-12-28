@@ -10,6 +10,10 @@ This project demonstrates a basic FastAPI application with in-memory database op
 
 ## Install Dependencies:
 
+pip install fastapi
+pip install uvicorn
+
+
 
 ## Run the Application:
 
